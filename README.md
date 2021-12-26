@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sarvesh-Pitrubhakta
 - 👀 I’m interested in Developement
-- 🌱 I’m currently learning Virtual Machine languages
 
 <!---
 Sarvesh-Pitrubhakta/Sarvesh-Pitrubhakta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
